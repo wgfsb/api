@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-29 15:45 CST）
+## API 状态（最近更新：2026-01-29 16:50 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：70
-- 失败 API 数量：10
+- 成功 API 数量：72
+- 失败 API 数量：8
 - 平均可用率：89.2%
 - 完美可用率（100%）：35 个
 - 高可用率（80%-99%）：37 个
@@ -222,7 +222,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞桃花资源 | https://thzy1.me/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
-| ❌ | 🎬暴风资源 | https://bfzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |
+| ✅ | 🎬暴风资源 | https://bfzyapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞精品资源 | https://www.jingpinx.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 96 | 4 | 96.0% | 0 |
@@ -231,9 +231,9 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
-| 🚨 | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 84 | 16 | 84.0% | 15 |
-| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 49 | 51 | 49.0% | 3 |
-| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 1 | 99 | 1.0% | 94 |
+| 🚨 | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 83 | 17 | 83.0% | 16 |
+| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 49 | 51 | 49.0% | 0 |
+| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 1 | 99 | 1.0% | 95 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
